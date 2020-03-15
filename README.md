@@ -1,3 +1,3 @@
 # Andri-setiawan
 Gemail-Hack  darkfb  fbtarget  mbf  s-mbf  storage $ cd Gemail-Hack
-Tembaktembakan.git bintang 73
+cd tembaktembakan
